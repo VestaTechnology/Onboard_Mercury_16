@@ -65,7 +65,7 @@ The project will continue running until you click _Finish Debugger Session_ or _
 You've done it! Congratulations!  Now all that lies between you and the next paradigm shifting embedded design is tinkering around with a few more example programs and a little more reading.
 
 ##The Future
-Thanks for making it this far and we hope you'll come to know and love your Mercury.  If you have any feed back, questions, or just want to talk, we would love to hear from you.  You can [contact us][contact] or send an email to <github@vestatech.com>. 
+Thanks for making it this far and we hope you'll come to know and love your Mercury.  If you have any feed back, questions, or just want to talk, we would love to hear from you.  Please submit an issue, [contact us][contact] or send an email to <github@vestatech.com>. 
 
 [contact]: https://www.vestatech.com/support/contact-us/
 
